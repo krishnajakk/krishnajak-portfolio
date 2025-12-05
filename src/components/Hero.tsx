@@ -54,7 +54,7 @@ const Hero = () => {
             className="mb-6"
           >
             <span className="text-2xl md:text-3xl font-mono text-primary">
-              Data Analyst
+              Data Scientist
             </span>
           </motion.div>
 
